@@ -1,0 +1,3 @@
+Name: Charan
+Location: Amaravati
+Chrome Path: C:/Program Files/Google/Chrome/Application/chrome.exe %s

@@ -16,13 +16,13 @@ The Python Virtual Desktop Assistant is a voice-controlled desktop application d
 11. 🧰 **Modular and Extensible:** The project structure allows for easy integration of additional functionalities and customization.
 
 ## Installation and Usage
-Clone the repository to your local machine.
-Install the required dependencies listed in the `requirements.txt` file using pip.
-Open the `assistant.py` file in a Python editor or IDE.
-Make sure your microphone is connected and functioning properly.
-Run the script to start the assistant.
-Follow the voice prompts to interact with the assistant and issue voice commands.
-Explore the different features and functionalities provided by the assistant.
+- Clone the repository to your local machine.
+- Install the required dependencies listed in the `requirements.txt` file using pip.
+- Open the `Karen.py` file in a Python editor or IDE.
+- Make sure your microphone is connected and functioning properly.
+- Run the script to start the assistant.
+- Follow the voice prompts to interact with the assistant and issue voice commands.
+- Explore the different features and functionalities provided by the assistant.
 
 ## Dependencies
 - `Python 3.x`
